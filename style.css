@@ -1,0 +1,33 @@
+header{
+    background-color: #5BA199;
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    height: 200px;
+    width: 400px;
+}
+.plan{
+    font-size: 20px;
+}
+.text{
+    text-align: center;
+}
+.amusementpark{
+    color: red;
+}
+.hello{
+    font-size:20px ;
+}
+.cafe{
+    text-align: center;
+    color: red;
+}
+.img9{
+    width: 280px;
+}
+.you{
+    text-align: center;
+    font-size: 100px;
+}
+    
